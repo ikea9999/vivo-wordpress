@@ -4,3 +4,15 @@
  * Version: 0
  * 
  */
+ 
+ 
+ register_activation_hook(
+ main.php
+ 
+ );
+ 
+ 
+ register_deactivation_hook (
+ main.php
+ 
+ );
