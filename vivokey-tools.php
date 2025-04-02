@@ -7,12 +7,12 @@
  
  
  register_activation_hook(
- main.php
+ vivokey-tools.php
  
  );
  
  
  register_deactivation_hook (
- main.php
+ vivokey-tools.php
  
  );
